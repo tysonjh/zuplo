@@ -18,6 +18,8 @@ A basic theremin that uses an ultrasonic ranging module to control frequency.
 
 ## Setup
 
+![Schematic](https://github.com/tysonjh/zuplo/blob/master/arduino/theremin/schematic.jpg)
+
 1. prepare circuit as shown in schematic.jpg (optionally add a resistor for the buzzer)
 2. upload the code to the metro mini (NewPing, NewTone libraries required)
 3. wave your hand within 20cm of the ultrasonic ranging module
